@@ -7,4 +7,4 @@
 
 ### 2. Baekjoon 
 #### >> 푸는 대로 업로드 할 예정
-#### >> [Profile](https://www.acmicpc.net/user/riim715)
+[[내 Profile]](https://www.acmicpc.net/user/riim715)
