@@ -5,9 +5,3 @@
 #### >> 날씨 정보는 네이버 날씨에서 ..
 
 ---
-
-### 2. Baekjoon 
-
-[[My Profile]](https://www.acmicpc.net/user/riim715)
-
-#### >> 푸는 대로 업로드 할 예정
